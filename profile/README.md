@@ -12,4 +12,9 @@
 <h3>Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11セットアップ、Wi-Fiを繋げてしまった...](https://blog.zenryoku.dev/posts/win11-setup-wifi-delete/)
+- [開発環境をDev Containerを使ってコンテナー化してみた](https://blog.zenryoku.dev/posts/using-dev-container/)
+- [WordPressからHugoに移行してみた](https://blog.zenryoku.dev/posts/wordpress-to-hugo/)
+- [Discord Nitroを使ってみたのでレビュー！](https://blog.zenryoku.dev/posts/discord-nitro-review-2023/)
+- [NVAPIを使ったVRAMの取得](https://blog.zenryoku.dev/posts/nvapi-vram-getting/)
 <!-- BLOG-POST-LIST:END -->
