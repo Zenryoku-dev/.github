@@ -3,12 +3,24 @@
 </div>
 
 <div align="center">
-
 <h2><a href="https://blog.zenryoku.dev">blog.Zenryoku.dev</a></h2>
+
+<img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Hugo Badge"/>
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Badge"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
 
 全力開発部のメンバーが日々の開発で得た知見や情報を、備忘録を兼ねて発信していきます。
 
-</dev>
+RSSフィードも提供しています。よろしければ、以下のバッジをクリックして購読してください。
+
+<img src="https://img.shields.io/badge/%E5%85%A8%E5%8A%9B%E9%96%8B%E7%99%BA%E3%83%96%E3%83%AD%E3%82%B0-RSS?style=for-the-badge&logo=rss&logoColor=%23FFA500&logoSize=auto&label=Subscribe%20to%20RSS%20feed&color=silver&link=https%3A%2F%2Fblog.zenryoku.dev%2Findex.xml" alt="Blog RSS Badge">
+
+</div>
+
 <h3>Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
