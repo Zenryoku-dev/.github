@@ -24,9 +24,9 @@ RSSフィードも提供しています。よろしければ、以下のバッ�
 <h3>Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [全力開発ブログの作り方：開発（執筆）環境の紹介](https://blog.zenryoku.dev/posts/zenryoku-blog-writing-workflow/)
 - [WSL内でDev Container使おうとしたら沼った話](https://blog.zenryoku.dev/posts/troubleshooting-wsl-dev-container/)
 - [Docker Desktop、やめました](https://blog.zenryoku.dev/posts/graduating-from-docker-desktop/)
 - [全力開発ブログの作り方：リポジトリの運用](https://blog.zenryoku.dev/posts/zenryoku-blog-repository/)
 - [全力開発ブログの作り方：textlintとMarkdownlintで品質を維持する](https://blog.zenryoku.dev/posts/zenryoku-blog-linting/)
-- [VS CodeでCopilot Chatの位置を左側に戻す方法](https://blog.zenryoku.dev/posts/reposition-copilot-chat/)
 <!-- BLOG-POST-LIST:END -->
